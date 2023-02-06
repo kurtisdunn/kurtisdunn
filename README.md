@@ -2,7 +2,7 @@
 ### Hi there, I'm Kurtis Dunn
 
 # 🤦🏻‍♂️  About Me :
-- ⚡ I’m currently working in PHP and JS, AWS and Azure.
+- ⚡ I’m currently working in PHP and JS and AWS.
 - 🌱 I’m currently learning C# and Microsoft DevOps.
 - 💬 Hit me up with questions
  

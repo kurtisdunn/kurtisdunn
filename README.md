@@ -21,7 +21,7 @@ Currently building a suite of SaaS products alongside my day job, with a focus o
 |---|---|---|
 | **[Fetchr](https://fetchr.com.au)** | B2B accounts receivable & debt recovery SaaS | Next.js · AWS · Xero/MYOB/QuickBooks · Stripe |
 | **[kurtisdunn.com.au](https://kurtisdunn.com.au)** | Business automation consulting | Next.js · AWS · Node 22 |
-| **HerpMarket** | Reptile marketplace platform (V2 in progress) | Next.js · PostgreSQL · Prisma |
+| **Herpify** | Reptile marketplace platform (V2 in progress) | Next.js · PostgreSQL · Prisma |
 ---
 
 ## 🛠️ Tech Stack

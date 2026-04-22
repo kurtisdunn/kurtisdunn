@@ -1,17 +1,21 @@
 # Hey, I'm Kurtis Dunn 👋
 
-Senior technologist, product builder, and infrastructure operator with two decades of experience across government, enterprise, and independent ventures. I've spent a career managing complex systems at scale — from cloud infrastructure and delivery pipelines to multi-platform product portfolios.
+**Senior Technologist | Product Builder | Infrastructure Operator**
 
-Currently building a suite of SaaS products alongside my day job, with a focus on automation, developer tooling, and platforms that solve real commercial problems.
+I’m not the loudest person in the room; I’m the one who did the homework before walking in. With two decades of experience across government and enterprise, I build complex systems that are designed to survive an audit, not just a demo.
+
+Currently leading technology delivery in the public sector while operating a portfolio of SaaS products focused on automation and developer tooling.
 
 ---
 
-## 🧠 What I Work On
+## 🧠 The Approach
 
-- **Cloud & Infrastructure** — AWS-native architectures: Lambda, ECS/Fargate, API Gateway, EventBridge, SQS, CloudFormation, CI/CD pipelines via GitHub Actions
-- **Full-Stack Development** — Next.js 15, TypeScript, Node.js, PostgreSQL, Prisma ORM, React
-- **DevOps & Delivery** — Infrastructure as code, zero-downtime deployments, PM2, EC2, multi-environment management
-- **SaaS Products** — Building and operating B2B and marketplace platforms from zero to production
+I value substance over spin. I work best with people who know the problem they are trying to solve and want a collaborator who tells the truth rather than delivering a pitch. 
+
+- **Cloud & Infrastructure** — AWS-native (Lambda, ECS/Fargate, EventBridge). Architecture built for real-world load and security compliance.
+- **DevOps & Delivery** — Infrastructure as Code (Terraform/CloudFormation) and CI/CD pipelines that actually remove friction.
+- **Business Automation** — Eliminating the manual overhead that quietly kills margins.
+- **SaaS Product Engineering** — Full-stack delivery from the first line of code to production scale.
 
 ---
 
@@ -19,9 +23,10 @@ Currently building a suite of SaaS products alongside my day job, with a focus o
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Fetchr](https://fetchr.com.au)** | B2B accounts receivable & debt recovery SaaS | Next.js · AWS · Xero/MYOB/QuickBooks · Stripe |
-| **[kurtisdunn.com.au](https://kurtisdunn.com.au)** | Business automation consulting | Next.js · AWS · Node 22 |
-| **Herpify** | Reptile marketplace platform (V2 in progress) | Next.js · PostgreSQL · Prisma |
+| **[Balancd](https://www.fetchr.com.au)** | Accounts receivable automation that quietly collects what you're owed. | Next.js · AWS · Stripe · Fintech APIs |
+| **[kurtisdunn.com.au](https://www.kurtisdunn.com.au)** | Consulting for leaders tired of talk and ready for delivery. | Next.js · AWS · Node 22 |
+| **Herpify** | A specialist marketplace platform serving a high-scale niche. | Next.js · PostgreSQL · Prisma |
+
 ---
 
 ## 🛠️ Tech Stack
@@ -47,5 +52,8 @@ Currently building a suite of SaaS products alongside my day job, with a focus o
 
 ## 📬 Get In Touch
 
+I keep my engagement list short to ensure quality. I prefer a considered conversation over a cold pitch any day.
+
 - 🌐 [kurtisdunn.com.au](https://kurtisdunn.com.au)
-- 💼 Open to select consulting engagements in cloud architecture, DevOps strategy, and SaaS product development
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- ✉️ Open to select consulting engagements in cloud architecture, DevOps strategy, and SaaS delivery.
